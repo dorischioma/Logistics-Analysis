@@ -131,7 +131,7 @@ This project reinforces the value of data analysis in transforming raw logistics
 
 
 Key Recommendations:
-•	Focus on improving the delivery times for Motorbike and Lorry shipments.
-•	Prioritize high-value and high-priority shipments to ensure they are delivered promptly.
-•	Use the regional insights to optimize shipment routes and carrier performance.
+-	Focus on improving the delivery times for Motorbike and Lorry shipments.
+-	Prioritize high-value and high-priority shipments to ensure they are delivered promptly.
+-	Use the regional insights to optimize shipment routes and carrier performance.
 
