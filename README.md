@@ -69,8 +69,8 @@ In Progress Shipments:
 -	High priority shipments account for the highest proportion of in-progress deliveries.
 
 Shipment Trend Analysis:    
--	The report also highlights trends over the months and years, giving insights into the growth and challenges in shipment deliveries.
-  [image]
+-	The report also highlights trends over the months and years, giving insights into the growth and challenges in shipment deliveries.  
+  ![Overview](https://github.com/dorischioma/Logistics-Analysis/blob/main/Overview%20Page.png)
     
 ### Shipment Forecasting by Shipping Mode
 Key Insights:
@@ -89,7 +89,7 @@ Motorbike Shipments:
 
 Regional Breakdown:  
 •	Each transportation mode has its shipments distributed across different regions, including Lagos, Abuja, Port Harcourt, and more. The analysis helps identify key regional shipment trends and delivery performance.   
-[image]
+ ![Overview](https://github.com/dorischioma/Logistics-Analysis/blob/main/Shipping%20Page.png)  
    
 ### Customer Experience and Delivery Metrics  
 Key Insights:
@@ -105,8 +105,8 @@ Satisfaction Level:
 •	Shipment Value and Delivery Time are crucial factors in customer satisfaction, with high-value shipments and longer delivery times potentially impacting satisfaction levels.  
 
 Payment and Rating:  
-•	The payment status (paid or pending) and delivery rating are tracked to correlate how the payment status impacts customer satisfaction.  
-[image]
+•	The payment status (paid or pending) and delivery rating are tracked to correlate how the payment status impacts customer satisfaction.    
+ ![Overview](![Overview](https://github.com/dorischioma/Logistics-Analysis/blob/main/Overview%20Page.png)
 
 
 ## Conclusion:  
