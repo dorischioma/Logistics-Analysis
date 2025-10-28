@@ -109,8 +109,7 @@ Payment and Rating:
 [image]
 
 
-Conclusion:
-Conclusion
+## Conclusion:  
 This analysis provided a comprehensive view of the company’s logistics operations from 2020 to 2024, highlighting strengths, inefficiencies, and actionable areas for improvement. By breaking down shipment volumes, transport mode performance, customer satisfaction, and regional delivery dynamics, the report revealed key trends affecting overall service quality and operational efficiency.
 
 Key takeaways include:
@@ -130,7 +129,7 @@ This project demonstrates how data can be used not just to monitor performance, 
 This project reinforces the value of data analysis in transforming raw logistics data into meaningful improvements that directly impact business outcomes.
 
 
-Key Recommendations:
+## Key Recommendations:
 -	Focus on improving the delivery times for Motorbike and Lorry shipments.
 -	Prioritize high-value and high-priority shipments to ensure they are delivered promptly.
 -	Use the regional insights to optimize shipment routes and carrier performance.
