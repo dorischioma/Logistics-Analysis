@@ -109,7 +109,7 @@ Satisfaction Level:
 Payment and Rating:  
 •	The payment status (paid or pending) and delivery rating are tracked to correlate how the payment status impacts customer satisfaction.    
   
- ![Overview](![Overview](https://github.com/dorischioma/Logistics-Analysis/blob/main/Overview%20Page.png)
+ (![Overview](https://github.com/dorischioma/Logistics-Analysis/blob/main/Table%20View.png)
 
 
 ## Conclusion:  
