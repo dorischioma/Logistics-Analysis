@@ -50,10 +50,10 @@ Customer Satisfaction Score	- Satisfaction rating (scale of 1–10).
 ## Data Cleaning 
 The data was already clean, and required very little to no cleaning.  
 
-## Tools Used  
-- Power BI
-- DAX (for Power BI)
-- Power Query
+## Tools Used    
+- Power BI: Dashboard creation and visualization.
+- DAX: Calculated measures for metrics like profit and return rate.
+- Power Query: Data cleaning and preliminary analysis.  
 
 ## Data Analysis & Insights  
 ### Overview of Shipment Status  
